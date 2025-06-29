@@ -8,3 +8,5 @@ Contain the collection of machine learning models  that i created
 3. RandomForestClassifier   :  https://github.com/SRIMURUGAN-A/Machine-Learning-Models/issues/4#issue-3186298800
 
 4. KNN algorithum(with Diabetes data)   : https://github.com/SRIMURUGAN-A/Machine-Learning-Models/issues/5#issue-3186304407
+
+5. LinearRegression   :  https://github.com/SRIMURUGAN-A/Machine-Learning-Models/issues/6#issue-3186311413
