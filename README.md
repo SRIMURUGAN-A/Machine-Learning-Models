@@ -18,3 +18,5 @@ Contain the collection of machine learning models  that i created
 8.  Object detection using live data  :  https://github.com/SRIMURUGAN-A/Machine-Learning-Models/issues/9#issue-3186354023
 
 9.  Object detection using video  :  https://github.com/SRIMURUGAN-A/Machine-Learning-Models/issues/10#issue-3186363226
+
+10.  Object detection using video   :   https://github.com/SRIMURUGAN-A/Machine-Learning-Models/issues/11#issue-3186377114
