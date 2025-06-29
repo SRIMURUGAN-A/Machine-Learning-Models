@@ -23,3 +23,4 @@ Contain the collection of machine learning models  that i created
 
 11.  SVM  :  https://github.com/SRIMURUGAN-A/Machine-Learning-Models/issues/13#issue-3186399374
 
+12.  Mask detection using CNN  :   https://github.com/SRIMURUGAN-A/Machine-Learning-Models/issues/14
