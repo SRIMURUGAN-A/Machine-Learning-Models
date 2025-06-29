@@ -20,3 +20,6 @@ Contain the collection of machine learning models  that i created
 9.  Object detection using video  :  https://github.com/SRIMURUGAN-A/Machine-Learning-Models/issues/10#issue-3186363226
 
 10.  Object detection using video   :   https://github.com/SRIMURUGAN-A/Machine-Learning-Models/issues/11#issue-3186377114
+
+11.  SVM  :  https://github.com/SRIMURUGAN-A/Machine-Learning-Models/issues/13#issue-3186399374
+
