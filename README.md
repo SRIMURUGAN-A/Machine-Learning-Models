@@ -12,3 +12,5 @@ Contain the collection of machine learning models  that i created
 5. LinearRegression   :  https://github.com/SRIMURUGAN-A/Machine-Learning-Models/issues/6#issue-3186311413
 
 6. Logistic Regression(for int image classification) : https://github.com/SRIMURUGAN-A/Machine-Learning-Models/issues/7#issue-3186316957
+
+7.  Naive Bayes(used in sentence labeling)  :  https://github.com/SRIMURUGAN-A/Machine-Learning-Models/issues/8#issue-3186322163
